@@ -1,0 +1,362 @@
+{
+  "aplicacion": "Intranet Fake Data",
+  "users": [
+    {
+      "_id": "6634cdf92aaef2fca9221f44",
+      "name": "Madeleine",
+      "gender": "female",
+      "company": "TENEA",
+      "email": "madeleinebriggs@keengen.com"
+    },
+    {
+      "_id": "6634cdf90b5d645ed4fae2de",
+      "name": "Eva",
+      "gender": "female",
+      "company": "TENEA",
+      "email": "evabriggs@keengen.com"
+    },
+    {
+      "_id": "6634cdf944b8a513e6ed0af5",
+      "name": "Paige",
+      "gender": "female",
+      "company": "TENEA",
+      "email": "paigebriggs@keengen.com"
+    },
+    {
+      "_id": "6634cdf97b74961f99ca3775",
+      "name": "Bowman",
+      "gender": "male",
+      "company": "TENEA",
+      "email": "bowmanbriggs@keengen.com"
+    },
+    {
+      "_id": "6634cdf9e10ca2a04f5b7b6b",
+      "name": "Caldwell",
+      "gender": "male",
+      "company": "TENEA",
+      "email": "caldwellbriggs@keengen.com"
+    },
+    {
+      "_id": "6634cdf9118796d87c3efcce",
+      "name": "Guerrero",
+      "gender": "male",
+      "company": "TENEA",
+      "email": "guerrerobriggs@keengen.com"
+    },
+    {
+      "_id": "6634cdf934b525774a121242",
+      "name": "Bertie",
+      "gender": "female",
+      "company": "TENEA",
+      "email": "bertiebriggs@keengen.com"
+    },
+    {
+      "_id": "6634cdf95d6d5bb8de7ea55e",
+      "name": "Jodie",
+      "gender": "female",
+      "company": "TENEA",
+      "email": "jodiebriggs@keengen.com"
+    },
+    {
+      "_id": "6634cdf9294d2889abae0f6b",
+      "name": "Shannon",
+      "gender": "male",
+      "company": "TENEA",
+      "email": "shannonbriggs@keengen.com"
+    },
+    {
+      "_id": "6634cdf968fa18f5673eaf95",
+      "name": "Virgie",
+      "gender": "female",
+      "company": "TENEA",
+      "email": "virgiebriggs@keengen.com"
+    },
+    {
+      "_id": "6634cdf9de3ccbde226f56b6",
+      "name": "Randi",
+      "gender": "female",
+      "company": "TENEA",
+      "email": "randibriggs@keengen.com"
+    },
+    {
+      "_id": "6634cdf9669cbe8f93446717",
+      "name": "Eula",
+      "gender": "female",
+      "company": "TENEA",
+      "email": "eulabriggs@keengen.com"
+    },
+    {
+      "_id": "6634cdf92f65d6c1067c26ca",
+      "name": "Kelly",
+      "gender": "male",
+      "company": "TENEA",
+      "email": "kellybriggs@keengen.com"
+    },
+    {
+      "_id": "6634cdf94a297bc280c7ced6",
+      "name": "Angel",
+      "gender": "female",
+      "company": "TENEA",
+      "email": "angelbriggs@keengen.com"
+    },
+    {
+      "_id": "6634cdf939492254f4dfb4cf",
+      "name": "Moody",
+      "gender": "male",
+      "company": "TENEA",
+      "email": "moodybriggs@keengen.com"
+    },
+    {
+      "_id": "6634cdf9224e88fc39bb8117",
+      "name": "Rowena",
+      "gender": "female",
+      "company": "TENEA",
+      "email": "rowenabriggs@keengen.com"
+    },
+    {
+      "_id": "6634cdf9f4d4e9e22dfb8f80",
+      "name": "Luann",
+      "gender": "female",
+      "company": "TENEA",
+      "email": "luannbriggs@keengen.com"
+    },
+    {
+      "_id": "6634cdf9dacd83bf656d9cd5",
+      "name": "Wall",
+      "gender": "male",
+      "company": "TENEA",
+      "email": "wallbriggs@keengen.com"
+    },
+    {
+      "_id": "6634cdf969cee935841acb46",
+      "name": "Jaclyn",
+      "gender": "female",
+      "company": "TENEA",
+      "email": "jaclynbriggs@keengen.com"
+    },
+    {
+      "_id": "6634cdf9c0b362f6936fe17c",
+      "name": "Myers",
+      "gender": "male",
+      "company": "TENEA",
+      "email": "myersbriggs@keengen.com"
+    },
+    {
+      "_id": "6634cdf99efe485077c73975",
+      "name": "Nancy",
+      "gender": "female",
+      "company": "TENEA",
+      "email": "nancybriggs@keengen.com"
+    },
+    {
+      "_id": "6634cdf921daea38c1a7345a",
+      "name": "Pearl",
+      "gender": "female",
+      "company": "TENEA",
+      "email": "pearlbriggs@keengen.com"
+    },
+    {
+      "_id": "6634cdf992aec2cb97e21131",
+      "name": "Lester",
+      "gender": "male",
+      "company": "TENEA",
+      "email": "lesterbriggs@keengen.com"
+    },
+    {
+      "_id": "6634cdf987a2a3d225c0dd43",
+      "name": "Mccullough",
+      "gender": "male",
+      "company": "TENEA",
+      "email": "mcculloughbriggs@keengen.com"
+    },
+    {
+      "_id": "6634cdf9de7bb4b05d3bfa7d",
+      "name": "Murphy",
+      "gender": "male",
+      "company": "TENEA",
+      "email": "murphybriggs@keengen.com"
+    },
+    {
+      "_id": "6634cdf9d265af66acd8a614",
+      "name": "Rosemarie",
+      "gender": "female",
+      "company": "TENEA",
+      "email": "rosemariebriggs@keengen.com"
+    },
+    {
+      "_id": "6634cdf965680316fd95c422",
+      "name": "Alexander",
+      "gender": "male",
+      "company": "TENEA",
+      "email": "alexanderbriggs@keengen.com"
+    },
+    {
+      "_id": "6634cdf992c1b1469c74ac13",
+      "name": "Doyle",
+      "gender": "male",
+      "company": "TENEA",
+      "email": "doylebriggs@keengen.com"
+    },
+    {
+      "_id": "6634cdf911ec697746cf22d2",
+      "name": "Holmes",
+      "gender": "male",
+      "company": "TENEA",
+      "email": "holmesbriggs@keengen.com"
+    },
+    {
+      "_id": "6634cdf909581b50ebe64be9",
+      "name": "Carmela",
+      "gender": "female",
+      "company": "TENEA",
+      "email": "carmelabriggs@keengen.com"
+    },
+    {
+      "_id": "6634cdf9469825f56accb9fa",
+      "name": "Tracy",
+      "gender": "female",
+      "company": "TENEA",
+      "email": "tracybriggs@keengen.com"
+    },
+    {
+      "_id": "6634cdf9334dc107be59922b",
+      "name": "Smith",
+      "gender": "male",
+      "company": "TENEA",
+      "email": "smithbriggs@keengen.com"
+    },
+    {
+      "_id": "6634cdf9d5b9a778d0f6fbfc",
+      "name": "Travis",
+      "gender": "male",
+      "company": "TENEA",
+      "email": "travisbriggs@keengen.com"
+    },
+    {
+      "_id": "6634cdf9c32ccde303fc00f2",
+      "name": "Bell",
+      "gender": "male",
+      "company": "TENEA",
+      "email": "bellbriggs@keengen.com"
+    },
+    {
+      "_id": "6634cdf921f797d50ffd6572",
+      "name": "Carrie",
+      "gender": "female",
+      "company": "TENEA",
+      "email": "carriebriggs@keengen.com"
+    },
+    {
+      "_id": "6634cdf9661773099e99d590",
+      "name": "Patton",
+      "gender": "male",
+      "company": "TENEA",
+      "email": "pattonbriggs@keengen.com"
+    },
+    {
+      "_id": "6634cdf94315b6d1a137f625",
+      "name": "Lavonne",
+      "gender": "female",
+      "company": "TENEA",
+      "email": "lavonnebriggs@keengen.com"
+    },
+    {
+      "_id": "6634cdf94d0978491797cb74",
+      "name": "Cora",
+      "gender": "female",
+      "company": "TENEA",
+      "email": "corabriggs@keengen.com"
+    },
+    {
+      "_id": "6634cdf9c0c76ae5cd0ae6b7",
+      "name": "Bridges",
+      "gender": "male",
+      "company": "TENEA",
+      "email": "bridgesbriggs@keengen.com"
+    },
+    {
+      "_id": "6634cdf989c61c458d9af1ec",
+      "name": "Padilla",
+      "gender": "male",
+      "company": "TENEA",
+      "email": "padillabriggs@keengen.com"
+    },
+    {
+      "_id": "6634cdf96d9159f36b417395",
+      "name": "Talley",
+      "gender": "male",
+      "company": "TENEA",
+      "email": "talleybriggs@keengen.com"
+    },
+    {
+      "_id": "6634cdf9ed031a20c1fb2685",
+      "name": "Oneil",
+      "gender": "male",
+      "company": "TENEA",
+      "email": "oneilbriggs@keengen.com"
+    },
+    {
+      "_id": "6634cdf9e47ded49ece76c10",
+      "name": "Young",
+      "gender": "male",
+      "company": "TENEA",
+      "email": "youngbriggs@keengen.com"
+    },
+    {
+      "_id": "6634cdf935fa65129b786520",
+      "name": "Mcgee",
+      "gender": "male",
+      "company": "TENEA",
+      "email": "mcgeebriggs@keengen.com"
+    },
+    {
+      "_id": "6634cdf90428d63eed9493ad",
+      "name": "Francine",
+      "gender": "female",
+      "company": "TENEA",
+      "email": "francinebriggs@keengen.com"
+    },
+    {
+      "_id": "6634cdf9848f943d95b05893",
+      "name": "Alston",
+      "gender": "male",
+      "company": "TENEA",
+      "email": "alstonbriggs@keengen.com"
+    },
+    {
+      "_id": "6634cdf95f596f4d1fb84c9f",
+      "name": "Stefanie",
+      "gender": "female",
+      "company": "TENEA",
+      "email": "stefaniebriggs@keengen.com"
+    },
+    {
+      "_id": "6634cdf988165db6657d9a82",
+      "name": "Reeves",
+      "gender": "male",
+      "company": "TENEA",
+      "email": "reevesbriggs@keengen.com"
+    },
+    {
+      "_id": "6634cdf98ba9c7bf08ca8122",
+      "name": "Cecile",
+      "gender": "female",
+      "company": "TENEA",
+      "email": "cecilebriggs@keengen.com"
+    },
+    {
+      "_id": "6634cdf9825c15a42e732c58",
+      "name": "Sue",
+      "gender": "female",
+      "company": "TENEA",
+      "email": "suebriggs@keengen.com"
+    },
+    {
+      "_id": "6634cdf96b9f6a7dc6650c02",
+      "name": "Jacqueline",
+      "gender": "female",
+      "company": "TENEA",
+      "email": "jacquelinebriggs@keengen.com"
+    }
+  ]
+}
